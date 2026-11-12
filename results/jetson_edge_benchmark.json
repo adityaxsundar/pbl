@@ -1,0 +1,21 @@
+{
+    "Benchmark_Runs": 1000,
+    "Median_Latency_ms": 0.1586,
+    "P95_Latency_ms": 0.1729,
+    "Min_Latency_ms": 0.1461,
+    "Max_Latency_ms": 0.4665,
+    "Deep_Extractor_Latency_ms": 0.0398,
+    "Sparse_GP_Latency_ms": 0.1179,
+    "C_Symbolic_Residual_Latency_ms": 0.0007,
+    "Peak_Memory_MB": 18.4,
+    "Jetson_15W_Mode": {
+        "Power_Watts": 12.4,
+        "Energy_Per_Inference_mJ": 1.9669,
+        "Throughput_FPS": 6304.5
+    },
+    "Jetson_7W_Mode": {
+        "Power_Watts": 5.8,
+        "Energy_Per_Inference_mJ": 1.242,
+        "Throughput_FPS": 4670.0
+    }
+}

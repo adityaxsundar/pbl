@@ -1,0 +1,2 @@
+Discovered Equation: r(x) = X3
+Complexity: 1 nodes

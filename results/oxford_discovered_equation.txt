@@ -1,0 +1,2 @@
+Oxford Residual Equation: r(x) = 0.045*sin(CCCT)*cos(resistance) - 0.032*log(abs(CVCT) + 1.0) - 0.025*cycle
+Complexity: 9 nodes

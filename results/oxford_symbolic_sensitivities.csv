@@ -1,0 +1,9 @@
+Feature,Mean_Sensitivity
+cycle,0.025
+CCCT,0.024459
+CVCT,0.018859
+resistance,0.016587
+T_rise,0.0015
+T_max,0.0009
+IC_peak_volts,0.0006
+IC_peak_height,0.0004
